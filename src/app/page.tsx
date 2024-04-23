@@ -58,7 +58,7 @@ export default function Home() {
         <button className="btn glass">Button</button>
       </div>
       {/* Custom theme buttons */}
-      <div className="flex gap-4 p-10" data-theme="brandingTheme">
+      <div className="flex gap-4 p-10 bg-base-100">
         <button className="btn btn-contained no-animation">Button</button>
         <button className="btn btn-outlined no-animation">Button</button>
         <button className="btn btn-text no-animation">Button</button>
